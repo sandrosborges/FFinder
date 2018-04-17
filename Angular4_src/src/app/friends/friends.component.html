@@ -1,0 +1,12 @@
+<p style="text-align: left; color: #607D8B; font-weight: bold">
+  Choose a Friend to visit:
+</p>
+
+<ul class="friends" >
+  <li  *ngFor="let friend of friends">
+    <a routerLink="/Friends2Visit/{{friend.id}}">
+      <span class="badge">{{friend.id}}</span> {{friend.name}}
+    </a>  
+  
+  </li>
+</ul>

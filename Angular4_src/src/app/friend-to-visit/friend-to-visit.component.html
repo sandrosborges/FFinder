@@ -1,0 +1,40 @@
+
+<br/>
+
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+  
+
+<div *ngIf="friend" style="text-align: left; margin-left: 5px">
+  <!-- <h3><span>id: </span>{{friend.id}}</h3> -->
+  <h4>Visiting: {{ friend.name | uppercase }} </h4>
+
+<p>
+  <span>Friend's Location:</span>
+  <span>x: </span>{{ friend.coordinateX }}, &nbsp; &nbsp; 
+  <span>y: </span>{{ friend.coordinateY }}
+</p>  
+<br/>
+<span>Friend's near {{friend.name }}:</span>
+<table class="table">
+    <thead>
+      <tr>
+        <th>Friend</th>
+        <th>Cordinate X</th>
+        <th>Cordinate Y</th>       
+      </tr>
+   </thead>
+   <tbody>
+     <tr  *ngFor="let friend of friendsNearMe">
+        <td>{{friend.name}}</td>
+        <td>{{friend.coordinateX}}</td>
+        <td>{{friend.coordinateY}}</td>
+     </tr>
+   </tbody>
+
+
+
+</table>
+<button class="btn btn-deafult" (click)="goBack()">go back</button>
+
+  
+</div>

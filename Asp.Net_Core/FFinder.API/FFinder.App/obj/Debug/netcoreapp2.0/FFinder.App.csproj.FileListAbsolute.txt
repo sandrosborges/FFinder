@@ -1,0 +1,16 @@
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\bin\Debug\netcoreapp2.0\FFinder.App.deps.json
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\bin\Debug\netcoreapp2.0\FFinder.App.runtimeconfig.json
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\bin\Debug\netcoreapp2.0\FFinder.App.runtimeconfig.dev.json
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\bin\Debug\netcoreapp2.0\FFinder.App.dll
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\bin\Debug\netcoreapp2.0\FFinder.Core.dll
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\bin\Debug\netcoreapp2.0\FFinder.Infra.dll
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\bin\Debug\netcoreapp2.0\FFinder.Infra.pdb
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\bin\Debug\netcoreapp2.0\FFinder.Core.pdb
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\obj\Debug\netcoreapp2.0\FFinder.App.csprojResolveAssemblyReference.cache
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\obj\Debug\netcoreapp2.0\FFinder.App.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\obj\Debug\netcoreapp2.0\FFinder.App.AssemblyInfoInputs.cache
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\obj\Debug\netcoreapp2.0\FFinder.App.AssemblyInfo.cs
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\obj\Debug\netcoreapp2.0\FFinder.App.csproj.CopyComplete
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\bin\Debug\netcoreapp2.0\FFinder.App.pdb
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\obj\Debug\netcoreapp2.0\FFinder.App.dll
+C:\Users\sandr\source\repos\FFinder.API\FFinder.App\obj\Debug\netcoreapp2.0\FFinder.App.pdb
